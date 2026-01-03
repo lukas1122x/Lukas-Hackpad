@@ -3,7 +3,9 @@
 This is my custom macropad featuring **9 mechanical switches**, a **0.91" OLED display**, and an **RP2040 microcontroller**.  
 I will use it for **Fusion 360** and **video editing**, and the OLED display will show the current mode so I can easily see whether I’m in **Fusion 360 mode** or **Video Editing mode**.
 
-This README allows anyone to view my project without having to open KiCad.
+![Product](product.jpeg)
+
+
 
 ---
 
